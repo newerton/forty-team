@@ -24,7 +24,7 @@
     "express-fileupload": "^1.2.1",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.95.6",
+    "knex": "^2.4.0",
     "md5": "^2.3.0",
     "morgan": "^1.10.0",
     "multer": "^2.0.2",
